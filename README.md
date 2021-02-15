@@ -1,1 +1,1 @@
-GameOfThrones - Copy
+CLEAN Arch, MVVM, Arch. Components, DI
